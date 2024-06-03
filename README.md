@@ -1,14 +1,4 @@
 
-## 📝 Giới thiệu về dự án
-
----
-
-<br />
-
-### 🎯 Mục tiêu
-
-STeeK là ứng dụng học Tiếng Anh trực tuyến, được phát triển bởi nhóm 3 sinh viên Học viện Kỹ Thuật Mật Mã. Steek là dự án đầu tay giúp chúng mình luyện khả năng lập trình và tư duy phát triển một Website.
-
 ### ✨ Tính năng
 
 
